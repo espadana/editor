@@ -5,7 +5,6 @@ node_modules/*
 .idea
 *.cmd
 tmp/*
-*.js
 _site/
 .sass-cache
 .vscode/
