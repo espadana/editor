@@ -4,13 +4,11 @@ node_modules/*
 *.cmd
 .idea
 *.cmd
-package/*
 tmp/*
 *.js
 _site/
 .sass-cache
 .vscode/
-
 /dist/css
 /shippable
 /Properties
